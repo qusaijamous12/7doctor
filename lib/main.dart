@@ -93,7 +93,7 @@ Future<void> main() async {
  // SharedHelper.RemoveData(key: 'uid');
  // SharedHelper.RemoveData(key: 'role');
   //SharedHelper.RemoveData(key: 'onBoard');
-
+//
   print(uid);
   print(isOnBoard);
   print(role);
